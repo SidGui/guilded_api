@@ -1,0 +1,19 @@
+{
+    "guilds":[{
+        "id":1,
+        "nome":"We wipe on Trash",
+        "quantidadeMembros":100
+    }, {
+        "id":2,
+        "nome":"Cães de Alugel",
+        "quantidadeMembros":10
+    }, {
+        "id":3,
+        "nome":"Method",
+        "quantidadeMembros":32
+    }, {
+        "id":4,
+        "nome":"Limit",
+        "quantidadeMembros":1
+    }]
+}

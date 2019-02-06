@@ -1,0 +1,24 @@
+{
+  "name": "guilded_api",
+  "version": "1.0.0",
+  "description": "API that will be consumed in a training application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SidGui/"
+  },
+  "keywords": [
+    "NodeJS",
+    "JavaScript",
+    "restful",
+    "api"
+  ],
+  "author": "Guilherme Santos (Sid)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
