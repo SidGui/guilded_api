@@ -1,12 +1,13 @@
 const fs = require('fs');
 
-var fetchMock = () =>
+var fetchMock = (fileName) =>
 {
     
     try {
-        var notesString = fs.readFileSync('./mock.json');
+        var notesString = fs.readFileSync(fileName);
         return JSON.parse(notesString);
     } catch(error) {
+        console.log(error);
         return [];
     }
 };

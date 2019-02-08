@@ -1,0 +1,31 @@
+{
+    "players":[{
+        "id":1,
+        "nome":"Jiwei",
+        "raca":"Panda",
+        "classe":"Monk",
+        "funcao":"Healer",
+        "guildId":1
+    }, {
+        "id":2,
+        "nome":"Haseng",
+        "raca":"Goblin",
+        "classe":"Shaman",
+        "funcao":"Healer",
+        "guildId":2
+    }, {
+        "id":3,
+        "nome":"Kudlak",
+        "raca":"Panda",
+        "classe":"Death Knight",
+        "funcao":"DPS",
+        "guildId":3
+    }, {
+        "id":4,
+        "nome":"Shieldaeu",
+        "raca":"Blood Elf",
+        "classe":"Paladin",
+        "funcao":"Tank",
+        "guildId":3
+    }]
+}
